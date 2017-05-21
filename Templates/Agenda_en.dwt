@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/shouye_en.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="UTF-8">
+<!--meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" /-->
+<meta name="viewport" content="width=device-width, initial-scale=1">		
+<title>Insert title here</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="css/style_boot.css" rel="stylesheet" type="text/css" />
+<script src="scripts/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="header_mob hidden-md hidden-lg" >
+<div class="container">
+				<div class="row">
+                 
+				  <div class="col-md-2 col-xs-2 text-left">
+                  <nav class="mobile-menu-icon desktop-menu FloarLeft hidden-md hidden-lg">
+<a class="hamburger" href="#">
+ <img src="images/mob_nav_icon.jpg" width="14" height="13"  alt=""/> </a>
+</nav>
+
+						<nav class="mobile-menu  animated hidden-md hidden-lg">
+                        
+							<a href="timeline_en.html">会议日程</a>
+							<a href="#">展台概览</a>
+                            <a href="#">大会资讯</a>
+                        <a href="#">会务指南</a>
+                          <a href="about_en.html" class="bottom">About</a>
+                         
+                          
+                          
+						</nav>
+                  </div>
+<div class="col-md-7 col-xs-7 text-center">
+                 <a href="index_en.html"><img src="images/logo.png" height="34"/></a>
+                 </div>
+                  <div class="col-md-3 col-xs-3 text-right"><nav class="desktop-menu"><a href="index.html">中文</a><a href="index_en.html" class="right">英文</a></nav>
+                  </div>
+</div></div></div><!--header移动版输出-->
+
+
+
+
+
+
+
+
+
+<div class="Join_M_bottom hidden-md hidden-lg" >
+  <div class="row" >
+<div class="col-xs-12 text-center" > <a href="https://yoopay.cn/event/GVRC2016" target="_blank">票务信息</a></div>
+
+</div>
+</div><!--Join_M_bottom end  -->
+<div class="header hidden-xs">
+ <div class="container">
+   <div class="pull-left">
+   <a href="index_en.html"><img alt="logo" src="images/logo.png" class="img-responsive"></a>
+   </div>
+   
+   <div class="Language">
+    <div class="pull-right three"> 
+    <div class="text-right Language"><a href="index.html">中文</a>|<a href="index_en.html">english</a></div>
+      <ul><li> <a title="" href="about_en.html">About</a></li><li><a>会务指南</a></li><li><a>大会资讯</a></li><li><a>展台概览</a></li><li><a href="timeline_en.html">会议日程</a></li><li class=""><a href="index_en.html">Index</a></li></ul>
+     </div> 
+   </div>
+ </div>
+</div>
+<!--header end--><!--header网页版输出-->
+
+<!-- InstanceBeginEditable name="EditRegion1" -->
+<div class="contentBody AboutBg">
+  <div class="container">
+   <div class="row">
+    <div class="col-md-9">
+      <div class="AgendaLeft"><!-- TemplateBeginEditable name="agenda_left" -->agenda_left<!-- TemplateEndEditable -->  
+       
+      </div>
+    </div>   
+    <div class="col-md-3">
+       <div class="AgendaRight">
+       <button onclick="window.location.href='programs_en.html';"  type="button" class="btn btn-lg btn-primary btn-block indexButton">en论坛总览</button>
+       <dl>
+         <dt>大会信息</dt>
+         <dd>2016.5.14 -- 2016.5.15</dd>
+         <dd><a href="meeting_place_en.html">China Europe International Business School</a> <br/>上海市浦东新区红枫路699号</dd>
+         <dd><img src="images/map.png" class="img-responsive" alt=""/></dd>
+         <dd class="last"><button onclick="window.location.href='https://yoopay.cn/event/GVRC2016';"  type="button" class="btn btn-lg btn-warning btn-block indexButton">注册参会</button></dd>
+       </dl>
+       <dl>
+        <dd class="text-center">关注大会官方微信<img src="images/index_er.jpg" class="img-responsive" width="158" alt=""/></dd>
+       </dl>
+       <dl>
+        <dd><span class="first">Organizers:</span></dd>
+        <dd>Golden Bridge Bureau of China (Shanghai) Pilot Free Trade Zone Administration </dd>
+        <dd>Shanghai Golden Bridge Economic and Technological Development Administration Committee</dd>
+        <dd>China Europe International Business School</dd>
+        <dd>Shanghai Golden Bridge Export Processing Zone Development Co., Ltd. </dd>
+        <dd>Migu Video Technology Co., Ltd.</dd>
+        <dd><span>Guiding Authorities:</span></dd>
+        <dd>Economy and Information Technology Commission of Shanghai Municipality</dd>
+        <dd>Shanghai Pudong New Area People's Government</dd>
+        <dd><span>Sponsors:</span></dd>        
+        <dd>Shanghai Digital Content Industry Promotion Center</dd>
+        <dd>Shanghai Xuanjing Science and Technology Development Co., Ltd.</dd>
+        <dd>MHS Innovation Forum China</dd>
+        <dd>Beijing VR Times Technology Co., Ltd. (Ling VR)</dd>
+        <dd><span>Undertaker:</span></dd>
+        <dd>中国动画学会</dd>
+        <dd>Shanghai Network Audio-visual Association</dd>
+        <dd>CNR Mobile (Shanghai) Co., Ltd.</dd>
+        <dd>Shanghai Yisheng Science and Technology Network Co., Ltd.</dd>
+        
+       </dl>
+       
+       </div>
+    </div>
+   </div>
+  </div>
+</div>
+<!-- InstanceEndEditable -->
+
+
+
+
+<div class="footer  col-xs-12">
+  <div class="container">
+    <div class="footerContent ">
+   联系邮箱：service@gvrc.org.cn
+
+     <p>京公网安备1111111号   京ICP备11111号-2</p>
+    
+    </div>
+  </div>
+</div>
+<!--footer end-->
+
+
+
+</body>
+<!-- InstanceEnd --></html>
